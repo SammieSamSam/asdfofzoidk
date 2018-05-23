@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Robot Controls
+Comment=Robot controls display
+NoDisplay=false
+Exec=/usr/bin/lxterminal -e /home/"Shell Scripts"/launcher.sh
+NotShowIn=GNOME;KDE;XFCE
